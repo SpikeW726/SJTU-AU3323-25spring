@@ -1,0 +1,2 @@
+[FIX] Please put (overwrite) *.py files in this folder to "pacman/" folder in previous version.
+[ATTENTION] Your can only have one dot in the layout file; For multiple dots, the goal will be always set to (1,1)
